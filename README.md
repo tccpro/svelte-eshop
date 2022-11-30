@@ -1,6 +1,7 @@
 # Svelte DevTools
 [![Mozilla Add-on](https://img.shields.io/amo/users/svelte-devtools?color=red&label=Firefox)](https://addons.mozilla.org/en-US/firefox/addon/svelte-devtools/) [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/ckolcbmkjpjmangdbmnkpjigpkddpogn?color=blue&label=Chrome)](https://chrome.google.com/webstore/detail/svelte-devtools/ckolcbmkjpjmangdbmnkpjigpkddpogn)
 
+
 Install from the [Firefox addon page](https://addons.mozilla.org/en-US/firefox/addon/svelte-devtools/) or the
 [Chrome addon page](https://chrome.google.com/webstore/detail/svelte-devtools/ckolcbmkjpjmangdbmnkpjigpkddpogn)
 
